@@ -25,6 +25,9 @@ The following screen shot shows the options to configure for a connection to Azu
 
 ![Azure blob storage connection](../../integration-services/import-export-data/media/azure-blob-storage-connection.png)
 
+> [!NOTE]
+> If Azure Blob Storage is still not appearing in the Data Source dropdown menu, you may need to launch the 64-bit stand-alone version of the SQL Server Import and Export Data Wizard (requires SQL Server to be installed)
+
 ## Options to specify
 
 > [!NOTE]
